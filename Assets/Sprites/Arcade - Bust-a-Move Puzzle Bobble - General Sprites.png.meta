@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: 47aa95e1715274641a24d86fefe6915d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5004029512607437839
+    second: Arcade - Bust-a-Move Puzzle Bobble - Title Black
+  - first:
+      213: -6057261465111190469
+    second: Arcade - Bust-a-Move Puzzle Bobble - Checkered_Back
+  - first:
+      213: 6624061068305371649
+    second: Arcade - Bust-a-Move Puzzle Bobble - Blue Bobble
+  - first:
+      213: -2387050516852114800
+    second: Arcade - Bust-a-Move Puzzle Bobble - Copper Cannon Fixed
+  - first:
+      213: 1988159520292634191
+    second: Arcade - Bust-a-Move Puzzle Bobble - Copper Arrow Fixed
+  - first:
+      213: 479631991423283190
+    second: Arcade - Bust-a-Move Puzzle Bobble - Bobble Bag Front
+  - first:
+      213: 7313358923258658714
+    second: Arcade - Bust-a-Move Puzzle Bobble - Bobble Bag Back
+  - first:
+      213: -7780941877117154257
+    second: Arcade - Bust-a-Move Puzzle Bobble - Red Bobble
+  - first:
+      213: 4943705838668540522
+    second: Arcade - Bust-a-Move Puzzle Bobble - Yellow Bobble
+  - first:
+      213: -7856315657919442870
+    second: Arcade - Bust-a-Move Puzzle Bobble - Purple Bobble
+  - first:
+      213: 745987784448009806
+    second: Arcade - Bust-a-Move Puzzle Bobble - Grey Bobble
+  - first:
+      213: 524879117545623673
+    second: Blue Bobble
+  - first:
+      213: 7843449334404260820
+    second: Blue Bobble Pop
+  - first:
+      213: -4135577980218338206
+    second: Red Bobble
+  - first:
+      213: 5330147697086992959
+    second: Red Bobble Pop
+  - first:
+      213: -4300287447745400831
+    second: Yellow Bobble
+  - first:
+      213: 8354870905114184238
+    second: Yellow Bobble Pop
+  - first:
+      213: -1009546086875998931
+    second: Purple Bobble
+  - first:
+      213: -2710751285972960792
+    second: Purple Bobble Pop
+  - first:
+      213: 4333818414570430846
+    second: Grey Bobble
+  - first:
+      213: -7537786694860283402
+    second: Grey Bobble Pop
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 2, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Bust-a-Move Puzzle Bobble - Title Black
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3485
+        width: 321
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb6677bbad1e8ab0800000000000000
+      internalID: -5004029512607437839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Bust-a-Move Puzzle Bobble - Checkered_Back
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 3484
+        width: 319
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34a26c4ac840fba0800000000000000
+      internalID: -6057261465111190469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Bust-a-Move Puzzle Bobble - Blue Bobble
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 3031
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10216d222746deb50800000000000000
+      internalID: 6624061068305371649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Bust-a-Move Puzzle Bobble - Copper Cannon Fixed
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1874
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09afd1ab33e7fded0800000000000000
+      internalID: -2387050516852114800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Bust-a-Move Puzzle Bobble - Copper Arrow Fixed
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2112
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e7adbcc8c579b10800000000000000
+      internalID: 1988159520292634191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Bust-a-Move Puzzle Bobble - Bobble Bag Front
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1875
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffa2b741cef7a600800000000000000
+      internalID: 479631991423283190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Bust-a-Move Puzzle Bobble - Bobble Bag Back
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1875
+        width: 61
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ff3cf51354e7560800000000000000
+      internalID: 7313358923258658714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Bust-a-Move Puzzle Bobble - Red Bobble
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2935
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c8874869a840490800000000000000
+      internalID: -7780941877117154257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Bust-a-Move Puzzle Bobble - Yellow Bobble
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2838
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6aecd374429b9440800000000000000
+      internalID: 4943705838668540522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Bust-a-Move Puzzle Bobble - Purple Bobble
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2741
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a405f5e9882c8f290800000000000000
+      internalID: -7856315657919442870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Bust-a-Move Puzzle Bobble - Grey Bobble
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2644
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46edc200f74a5a00800000000000000
+      internalID: 745987784448009806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
